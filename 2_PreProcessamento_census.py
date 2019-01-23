@@ -68,7 +68,7 @@ previsores[:, 9] = labelencoder_previsores.fit_transform(previsores[:, 9])
 previsores[:, 13] = labelencoder_previsores.fit_transform(previsores[:, 13])
 
 # Altera todos os atributos para n novos atributos contendo 1/0 para identificar o atributo
-onehotencoder = OneHotEncoder(categorical_features=[1, 3, 5, 6, 7, 8, 9, 13])
+onehotencoder = OneHotEncoder(categorical_features=colunas)
 previsores = onehotencoder.fit_transform(previsores).toarray()
 previsores2 = pd.DataFrame(previsores, columns = nome_colunas)
 
