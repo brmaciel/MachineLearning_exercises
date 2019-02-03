@@ -1,0 +1,17 @@
+- - - - - - - - - - - - - - -
+ Credit Data
+- - - - - - - - - - - - - - -
+
+0.9380 - Naive Bayes (inconsistentes + faltantes + escalonamento)
+
+
+
+- - - - - - - - - - - - - - -
+ Census Data
+- - - - - - - - - - - - - - -
+
+0.4797 - Naive Bayes (labelencoder + onehotencoder + escalonamento)
+0.7947 - Naive Bayes (labelencoder)
+0.7950 - Naive Bayes (labelencoder + onehotencoder)
+0.8046 - Naive Bayes (labelencoder + escalonamento)
+
