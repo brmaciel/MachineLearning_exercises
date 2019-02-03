@@ -5,6 +5,7 @@
 0.9380 - Naive Bayes (inconsistentes + faltantes + escalonamento)
 0.9820 - Árvores de Decisão (inconsistentes + faltantes + escalonamento)
 0.9840 - Random Forest (n_estimators=40, (inconsistentes + faltantes + escalonamento)
+0.5060 - CN2 (sem pré-processamento)
 
 
 - - - - - - - - - - - - - - -
@@ -25,3 +26,6 @@
 0.8481 - Random Forest (n_estimators=40) (labelencoder)
 0.8489 - Random Forest (n_estimators=40) (labelencoder + onehotencoder)
 0.8483 - Random Forest (n_estimators=40) (labelencoder + escalonamento)
+
+0.7880 - CN2 (sem pré-processamento)
+
