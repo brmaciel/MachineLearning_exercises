@@ -10,6 +10,7 @@
 0.9440 - Regressão Logística (inconsistentes + faltantes + escalonamento)
 0.9880 - SVM (kernel=rbf, cost=2, (inconsistentes + faltantes + escalonamento)
 0.9980 - Rede Neural sklearn (inconsistentes + faltantes + escalonamento)
+0.9480 - Rede Neural keras (inconsistentes + faltantes + escalonamento)
 
 
 - - - - - - - - - - - - - - -
@@ -54,3 +55,7 @@
 0.7939 - Rede Neural sklearn (labelencoder + onehotencoder)
 0.8414 - Rede Neural sklearn (labelencoder + escalonamento)
 
+0.8178 - Rede Neural keras (labelencoder + onehotencoder + escalonamento)
+0.7560 - Rede Neural keras (labelencoder)
+0.2440 - Rede Neural keras (labelencoder + onehotencoder)
+0.8512 - Rede Neural keras (labelencoder + escalonamento)
