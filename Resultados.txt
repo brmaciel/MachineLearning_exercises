@@ -8,6 +8,7 @@
 0.5060 - CN2 (sem pré-processamento)
 0.9860 - KNN(inconsistentes + faltantes + escalonamento)
 0.9440 - Regressão Logística (inconsistentes + faltantes + escalonamento)
+0.9880 - SVM (kernel=rbf, cost=2, (inconsistentes + faltantes + escalonamento)
 
 
 - - - - - - - - - - - - - - -
@@ -42,3 +43,7 @@
 0.7955 - Regressão Logística (labelencoder + onehotencoder)
 0.8184 - Regressão Logística (labelencoder + escalonamento)
 
+0.8508 - SVM linear (labelencoder + onehotencoder + escalonamento)
+?      - SVM linear (labelencoder)
+?      - SVM linear (labelencoder + onehotencoder)
+0.8135 - SVM linear (labelencoder + escalonamento)
