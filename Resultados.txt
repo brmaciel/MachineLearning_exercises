@@ -1,16 +1,18 @@
 - - - - - - - - - - - - - - -
  Credit Data
 - - - - - - - - - - - - - - -
-
+0.8720 - Baseline Classifier
 0.9380 - Naive Bayes (inconsistentes + faltantes + escalonamento)
 0.9820 - Árvores de Decisão (inconsistentes + faltantes + escalonamento)
 0.9840 - Random Forest (n_estimators=40, (inconsistentes + faltantes + escalonamento)
 0.5060 - CN2 (sem pré-processamento)
+0.9860 - KNN(inconsistentes + faltantes + escalonamento)
 
 
 - - - - - - - - - - - - - - -
  Census Data
 - - - - - - - - - - - - - - -
+0.7560 - Baseline Classifier
 
 0.4797 - Naive Bayes (labelencoder + onehotencoder + escalonamento)
 0.7947 - Naive Bayes (labelencoder)
@@ -29,3 +31,7 @@
 
 0.7880 - CN2 (sem pré-processamento)
 
+0.8223 - KNN (labelencoder + onehotencoder + escalonamento)
+0.7746 - KNN (labelencoder)
+0.7760 - KNN (labelencoder + onehotencoder)
+0.8219 - KNN (labelencoder + escalonamento)
