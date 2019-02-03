@@ -7,6 +7,7 @@
 0.9840 - Random Forest (n_estimators=40, (inconsistentes + faltantes + escalonamento)
 0.5060 - CN2 (sem pré-processamento)
 0.9860 - KNN(inconsistentes + faltantes + escalonamento)
+0.9440 - Regressão Logística (inconsistentes + faltantes + escalonamento)
 
 
 - - - - - - - - - - - - - - -
@@ -35,3 +36,9 @@
 0.7746 - KNN (labelencoder)
 0.7760 - KNN (labelencoder + onehotencoder)
 0.8219 - KNN (labelencoder + escalonamento)
+
+0.8495 - Regressão Logística (labelencoder + onehotencoder + escalonamento)
+0.7910 - Regressão Logística (labelencoder)
+0.7955 - Regressão Logística (labelencoder + onehotencoder)
+0.8184 - Regressão Logística (labelencoder + escalonamento)
+
