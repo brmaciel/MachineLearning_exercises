@@ -27,3 +27,6 @@ Regressao com SVR
   Score: 0.81 / 0.74
   MAE:   82479.22
 
+Regressao com Rede Neural (camadas = 9,9)
+  Score: 0.90 / 0.88
+  MAE:   74794.08
