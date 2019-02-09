@@ -10,3 +10,8 @@ Regressão Linear Múltipla
   Score: 0.70 / 0.68
   MAE:   123888.44
 
+Regressão Polinomial (degree = 2)
+  Score: 0.81 / 0.81
+  MAE:   140170.51
+
+
