@@ -1,0 +1,12 @@
+- - - - - - - - - - - - - - -
+ House Prices Data
+- - - - - - - - - - - - - - -
+
+Regressão Linear Simples
+  Score: 0.49 / 0.48 (dados_treino / dados_teste)
+  MAE:   172604.12
+ 
+Regressão Linear Múltipla
+  Score: 0.70 / 0.68
+  MAE:   123888.44
+
