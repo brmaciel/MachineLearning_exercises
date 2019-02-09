@@ -17,3 +17,8 @@ Regressão Polinomial (degree = 2)
 Regressao com Arvores de Decisao
   Score: 0.99 / 0.74
   MAE:   99156.99
+
+Regressao com Random Forest (100 arvores)
+  Score: 0.98 / 0.88
+  MAE:   68108.81
+
