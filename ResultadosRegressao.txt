@@ -14,4 +14,6 @@ Regressão Polinomial (degree = 2)
   Score: 0.81 / 0.81
   MAE:   140170.51
 
-
+Regressao com Arvores de Decisao
+  Score: 0.99 / 0.74
+  MAE:   99156.99
