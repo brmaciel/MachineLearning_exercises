@@ -32,6 +32,9 @@
 0.8481 - Random Forest (n_estimators=40) (labelencoder)
 0.8489 - Random Forest (n_estimators=40) (labelencoder + onehotencoder)
 0.8483 - Random Forest (n_estimators=40) (labelencoder + escalonamento)
+0.8321 - Random Forest (n_estimators=40) (labelencoder + escalonamento) PCA (n_components=6)
+0.8188 - Random Forest (n_estimators=40) (labelencoder + escalonamento) KernelPCA  (n_components=6)
+0.7334 - Random Forest (n_estimators=40) (labelencoder + escalonamento) LDA (n_components=1)
 
 0.7880 - CN2 (sem pré-processamento)
 
