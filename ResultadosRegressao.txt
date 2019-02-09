@@ -22,3 +22,8 @@ Regressao com Random Forest (100 arvores)
   Score: 0.98 / 0.88
   MAE:   68108.81
 
+
+Regressao com SVR
+  Score: 0.81 / 0.74
+  MAE:   82479.22
+
